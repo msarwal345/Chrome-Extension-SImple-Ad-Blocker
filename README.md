@@ -2,7 +2,7 @@
 
 A simple Ad Blocker which will block the ads on any website which will allow you to get a better user experience while reading or researching for anything.
 
-## Installtion
+## Installation
 1. Download the github reposistory zip file.
 2. Unzip the file.
 3. Now open Chrome Extension and turn on developers mode.
