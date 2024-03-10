@@ -7,7 +7,7 @@ A simple Ad Blocker which will block the ads on any website which will allow you
 2. Unzip the file.
 3. Now open Chrome Extension and turn on developers mode.
 4. Choose The Load Unpacked options.
-5. Choose the unzipped File.
+5. Choose the unzipped File and select the src folder.
 6. Now Enjoy.
  
 Hope You liked it....
