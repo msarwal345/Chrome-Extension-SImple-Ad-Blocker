@@ -9,5 +9,9 @@ A simple Ad Blocker which will block the ads on any website which will allow you
 4. Choose The Load Unpacked options.
 5. Choose the unzipped File and select the src folder.
 6. Now Enjoy.
- 
+
+## Working
+https://dai.ly/kXMokpCgzH6pwzAan06
+
+
 Hope You liked it....
